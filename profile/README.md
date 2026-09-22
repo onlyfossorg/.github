@@ -68,6 +68,8 @@ Projects are showcased on our website:
 
 ## 🤝 Who Can Join?
 
+Builders, indie hackers, and beginners are all welcome.
+
 Anyone who:
 - Likes building things
 - Wants to contribute to real projects
